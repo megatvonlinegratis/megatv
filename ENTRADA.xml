@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 
 <channels>
-  
+
 <channel>
 <name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]TV AO VIVO[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
+<fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
 <info>[B][COLOR white]OS MELHORES[/COLOR][/B] [B][COLOR gold]CANAIS AO VIVO[/COLOR][/B] [B][COLOR white]EM UM SÓ LUGAR[/COLOR][/B]</info>
 <externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/CATEGORIA%20TV.XML</externallink>
 </channel>
