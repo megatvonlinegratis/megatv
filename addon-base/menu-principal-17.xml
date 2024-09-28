@@ -7,21 +7,15 @@
 
 
 
-<channel>
-<name>[B][COLOR blue] [/COLOR] [COLOR yellow] BEM VINDOS AO PLUGINSTREAMING [B][COLOR blue]  [/COLOR][/B]</name>
-<thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
-<fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
-<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/CATEGORIA/main/README.md</externallink>
-</channel>
+
 
 
   
 <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow] TV AO VIVO [/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
 <fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
-<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStreaming [/COLOR]</info>
+<info>[B][COLOR white]OS MELHORES[/COLOR][/B] [B][COLOR gold]CANAIS AO VIVO[/COLOR][/B] [B][COLOR white]EM UM SÓ LUGAR[/COLOR][/B]</info>
 <externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/CATEGORIA%20TV.XML</externallink>
 </channel>
 
