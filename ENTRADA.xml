@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<layouttype>thumbnail</layouttype>
-
-<channels>
+<channels> 
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]TV AO VIVO[/COLOR][/B]</name>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/CATEGORIA%20TV.XML</externallink>
-<info>[B][COLOR white]OS MELHORES[/COLOR][/B] [B][COLOR gold]CANAIS AO VIVO[/COLOR][/B] [B][COLOR white]EM UM SÓ LUGAR[/COLOR][/B]</info>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]SERVIDOR[/COLOR][/B] | [B][COLOR blue]PLUTO[/COLOR][/B] [B][COLOR white]TV[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/megatvonlinegratis/megatv/master/logos/pluto-tv.png</thumbnail>
+<info>[B][COLOR blue]Pluto[/COLOR] [COLOR white]TV[/COLOR][/B], Esse é um Servidor Dedicado a TV Online, Pode Apresentar Problemas é Necessário [B][COLOR gold]Aguardar...[/COLOR][/B]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/Tv%20ao%20Vivo%20Link%201.XML</externallink>
 </channel>
-  
+
 </channels>
+
