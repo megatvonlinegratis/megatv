@@ -1,14 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<?xml version="1.0" encoding="utf-8"?>
 
+<layouttype>thumbnail</layouttype>
 
 <channels>
-  
-<channel>
-<name>[B][COLOR blue][/COLOR] [COLOR white] TV AO VIVO [/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/CATEGORIA%20TV.XML</externallink>
-</channel>
 
-</channels> 
+<channel>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]TV AO VIVO[/COLOR][/B]</name>
+<externallink>https://gitlab.com/megatvonline/megatv/raw/master/base-principal/menu-tv-ao-vivo-17.xml</externallink>
+<info>[B][COLOR white]OS MELHORES[/COLOR][/B] [B][COLOR gold]CANAIS AO VIVO[/COLOR][/B] [B][COLOR white]EM UM SÓ LUGAR[/COLOR][/B]</info>
+</channel>
+  
+</channels>
+
+
